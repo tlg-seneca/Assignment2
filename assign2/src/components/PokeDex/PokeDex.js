@@ -1,11 +1,11 @@
 /*----------------------------------------------------------------
-*	Author:   Tramaine L. Garner
-* Email:    tramainegarner@gmail.com
-*	File:     PokeDex.js
-*	Written:  28/04/2019
-*	Purpose:  List Pokemon(s), apply styles, state managment,
-*           passing values and iterate over <Pokenmon /> component
-*	Notes:		Having regression issues loading animation within each grid item; ended up removing
+*Author:   Tramaine L. Garner
+*Email:    tramainegarner@gmail.com
+*File:     PokeDex.js
+*Written:  28/04/2019
+*Purpose:  List Pokemon(s), apply styles, state managment,
+*          passing values and iterate over <Pokenmon /> component
+*Notes:    Having regression issues loading animation within each grid item; ended up removing
 *----------------------------------------------------------------*/
 
 import React, { Component } from 'react';
