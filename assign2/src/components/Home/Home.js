@@ -1,10 +1,10 @@
 /*----------------------------------------------------------------
-*	Author:   Tramaine L. Garner
-* Email:    tramainegarner@gmail.com
-*	File:     Home.js
-*	Written:  27/04/2019
-*	Purpose:  Return <Home /> component to display navigation link(s)
-* Note:
+*Author:   Tramaine L. Garner
+*Email:    tramainegarner@gmail.com
+*File:     Home.js
+*Written:  27/04/2019
+*Purpose:  Return <Home /> component to display navigation link(s)
+*Note:
 *----------------------------------------------------------------*/
 
 import React from 'react';
